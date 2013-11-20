@@ -6,11 +6,12 @@ class Exercise3 {
 	 int c =3;
   }
   public static boolean isTriangle(int a, int b, int c){
+	if(a > (b+c)){
+     }else{
 	boolean flag;
 	flag = true;
-	  return a,b,c;
 	boolean testResult = false;
   }
  }
-
+}
 
